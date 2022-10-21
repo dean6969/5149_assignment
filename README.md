@@ -37,8 +37,11 @@ library(MLmetrics)
 ## Contributing
 
 The code is contribute from group with 3 people
+
 Thanh Chung Nguyen
+
 Phuc An Nguyen
+
 Wei Heng Ho
 
 
